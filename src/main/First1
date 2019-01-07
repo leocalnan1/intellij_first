@@ -1,0 +1,5 @@
+def main(args: Array[String]): Unit = {
+  var jake = "Jake Booker has diseases".replace("Jake Booker","Jake")
+  println(jake)
+}
+
