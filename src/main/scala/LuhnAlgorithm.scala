@@ -1,0 +1,3 @@
+object LuhnAlgorithm extends App{
+
+}
