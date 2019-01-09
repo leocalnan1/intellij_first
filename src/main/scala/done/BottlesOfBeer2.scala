@@ -1,3 +1,5 @@
+package done
+
 object BottlesOfBeer2 extends App{
   def bottlefunction(counter:Int):Unit = {
     println(s"$counter bottles of beer on the wall, $counter bottles of beer. ")
